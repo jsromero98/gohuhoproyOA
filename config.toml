@@ -1,11 +1,11 @@
 baseURL = "https://jsromero98.github.io/gohuhoproyOA/"
-languageCode = "es-es"
+languageCode = "en-us"
 title = "OA 2022-I"
 theme = 'book'
 
 # Book configuration
 disablePathToLower = true
-enableGitInfo = false
+enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
 [markup]
@@ -19,12 +19,6 @@ enableGitInfo = false
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'dark'
-
-  # Set source repository location.
-  # Used for 'Last Modified' and 'Edit this page' links.
-  # Configure the date format used on the pages
-  # - In git information
-  # - In blog posts
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
