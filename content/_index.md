@@ -3,31 +3,34 @@ title: Introduction
 type: docs
 ---
 
-# gohuhoproyOA Template
+# Catálogo de objetos astrofisicos
 
-Welcome to the [gohugo](https://gohugo.io/) template to create rich content [academic reports](https://www.wordy.com/writers-workshop/writing-an-academic-report/) having [p5.js](https://p5js.org/) sketches.
+Bienvenido al catalogo de objetos astrofisicos 2022-I
 
-## Hacking
+## Miembros
 
-Install the [gohugo](https://gohugo.io/) [static site generator](https://jamstack.org/generators/) then:
+# Members
 
-```sh
-$git clone https://github.com/jsromero98/gohuhoproyOA
-$cd gohuhoproyOA
-$git submodule update --init --recursive
-$hugo server -D --disableFastRender
-```
+{{< columns >}}
 
-Deploy with `$git push` after redefined `baseURL` in `config.toml` which should point to your actual public remote.
+## Juana Valentina Orjuela Londoño
+Estudiante de Ingeniería Electrica en la Universidad Nacional de Colombia.
 
-{{< hint info >}}
-The **gohuhoproyOA** template uses the [hugo-book](https://github.com/alex-shpak/hugo-book) theme by default. Check the [hugo themes site](https://themes.gohugo.io/) if you wish to add other ones.
-{{< /hint >}}
+<--->
 
-{{< hint info >}}
-If you forked the repo don't forget to activate the [actions](https://github.com/jsromero98/gohuhoproyOA/actions).
-{{< /hint >}}
+## David Ricardo Martinez Hernandez
+Estudiante de Ingeniería Electrica en la Universidad Nacional de Colombia.
 
-{{< hint info >}}
-If you changed the repo name don't forget to update all the js related (both sketches and assets) urls.
-{{< /hint >}}
+<--->
+
+## Nicolas Daza Lopez
+Estudiante de .... en la Universidad Nacional de Colombia.
+
+<--->
+
+## Johan Sebastian Romero Diaz
+Estudiante de Ingeniería de Sistemas y Computacion en la Universidad Nacional de Colombia.
+
+<--->
+
+{{< /columns >}}
