@@ -1,4 +1,4 @@
-baseURL = "https://jsromero98.github.io/gohuhoproyOA"
+baseURL = "https://jsromero98.github.io/gohuhoproyOA/"
 languageCode = "en-us"
 title = "gohuhoproyOA Template"
 theme = 'book'
@@ -22,7 +22,7 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/jsromero98/gohuhoproyOA'
+  BookRepo = 'https://github.com/jsromero98/gohuhoproyOA/'
 
   # Configure the date format used on the pages
   # - In git information
