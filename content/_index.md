@@ -22,7 +22,7 @@ Estudiante de Ingeniería Eléctrica en la Universidad Nacional de Colombia.
 <--->
 
 ### Nicolas Daza Lopez
-Estudiante de .... en la Universidad Nacional de Colombia.
+Estudiante de Ingeniería civil en la Universidad Nacional de Colombia.
 
 <--->
 
