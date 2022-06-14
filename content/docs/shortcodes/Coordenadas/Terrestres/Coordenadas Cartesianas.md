@@ -4,7 +4,7 @@ Son las mismas coordenadas ortogonales que se usan en cualquier otro espacio euc
 
 Cualquier punto en la superficie terrestre es representado como
 
-{{<katex>}}P={X,Y,Z}{{</katex>}}
+{{<katex>}}P=(X,Y,Z){{</katex>}}
 
 Todo el espacio se encuentra dividido en octantes de acuerdo al signo de las componentes de la coordenada:
 
