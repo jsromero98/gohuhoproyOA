@@ -1,3 +1,5 @@
 ---
 bookCollapseSection: true
 ---
+
+## Coordenadas celestes
