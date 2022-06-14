@@ -1,7 +1,3 @@
----
-bookCollapseSection: true
----
-
 # Referencias
 
 - [https://es.wikipedia.org/wiki/Medio_interestelar ](https://es.wikipedia.org/wiki/Medio_interestelar)
