@@ -17,7 +17,7 @@ El planeta Tierra gira en una órbita elíptica alrededor del Sol en 365d 5h 48m
 El eje terreste cambia de orientacion ligeramente debido a la interacción gravitacional Tierra-Sol y a la inclinación de la eclíptica. Este leve movimiento se completa aproximadamente cada 25776 años.
 
 ## Nutación
- 
+
 Es una oscilación "vertical" del eje de rotación Terrestre debido a la interaccion gravitacional Tierra-Luna-Sol.
 
 ### Bamboleo de Chandler
