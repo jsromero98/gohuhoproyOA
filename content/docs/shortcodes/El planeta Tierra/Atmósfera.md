@@ -23,3 +23,15 @@ Una capa con aire muy disperso y que sirve de hogar para la ISS y algunos satél
 ## Exosfera
 
 En estas alturas la composición de los gases es cada vez mas parecida al espacio exterior.
+
+> ### El azul
+>
+> El cielo se ve azul debido a la dispersión de Rayleigh. Esto es debido a que la atmósfera posee particulas cuyo tamaño es mucho menor a la longitud de onda de la luz proveniente del sol.
+>
+> Esto da como resultado que en el amanecer y medio día la luz azul se disperse y de un color azul al cielo, y en el atardecer la luz azul se absorbe dando lugar a los tonos rojizos
+
+## Efecto invernadero
+
+La radiación emitida por el sol no se quedaria en la Tierra de no ser por la ayuda de la atmósfera que la retiene para que no escape, permitiendo su aprovechamiento para todos los sistemas que la usan como motor de arranque de si mismos, incluida la vida.
+
+Sin embargo esto depende de un equilibrio el cual se ve afectado por la actividad humana que crea un desbalance que aumenta la cantidad de radiación atrapada.
