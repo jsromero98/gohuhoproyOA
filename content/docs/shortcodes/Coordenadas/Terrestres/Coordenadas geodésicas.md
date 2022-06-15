@@ -1,4 +1,4 @@
-# Coordenadas geográficas
+# Coordenadas geodésicas
 
 Para estas coordenadas es principal el concepto de la vertical geodésica, que es una recta normal a la superficie del elipsoide de revolución (la Tierra) en un punto. Esta recta no necesariamente coincide con el geocentro.
 
