@@ -26,4 +26,7 @@
 - [https://es.wikipedia.org/wiki/Universo](https://es.wikipedia.org/wiki/Universo)
 - [https://concepto.de/universo/](https://concepto.de/universo/)
 - [https://www.significados.com/universo/ ](https://www.significados.com/universo/ )
-- []()
+- [https://artsandculture.google.com/entity/m03wtpy?hl=es ](https://artsandculture.google.com/entity/m03wtpy?hl=es )
+- [https://es.wikipedia.org/wiki/Modelo_Lambda-CDM](https://es.wikipedia.org/wiki/Modelo_Lambda-CDM)
+- [https://es.wikipedia.org/wiki/Métrica_de_Friedman-Lemaître-Robertson-Walker](https://es.wikipedia.org/wiki/Métrica_de_Friedman-Lemaître-Robertson-Walker)
+- [ https://francis.naukas.com/2012/06/26/la-inflacion-cosmica/](https://francis.naukas.com/2012/06/26/la-inflacion-cosmica/)
