@@ -1,5 +1,8 @@
 # Neptuno
 
+![Neptuno](/gohuhoproyOA/sketches/Neptuno.jpg)    
+[Neptuno](https://www.geoenciclopedia.com/wp-content/uploads/2014/12/Neptuno.jpg)
+
 Al igual que urano es considerado un gigante de hielo, es el más alejado al sol, además es el tercer planeta con más masa del sistema solar, tiene 6 anillos que no son completamente visibles. Su campo magnético supera por unas 27 veces el campo magnético de la tierra. Es azotado por vientos supersónicos: se estima que son 3 veces más fuertes que los de Júpiter y 9 veces más intensos que los de la Tierra.
 
 - Distancia desde el Sol: 4,495 miles de millones km

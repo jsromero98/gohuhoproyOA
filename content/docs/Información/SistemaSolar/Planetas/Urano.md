@@ -1,5 +1,8 @@
 # Urano
 
+![Urano](/gohuhoproyOA/sketches/Urano_imagen.jpg)    
+[Urano](https://www.geoenciclopedia.com/wp-content/uploads/2014/12/Urano_imagen.jpg)
+
 Urano es un gigante gaseoso  compuesto principalmente por agua congelada, metano y amoníaco a diferencia de Saturno y júpiter formados por helio e hidrógeno. Es el único planeta que rota de lado. Tiene altas cantidades de metano en su superficie lo que hace que adquiera ese tono azulado. Posee un débil sistema de anillos.
 
 - Distancia desde el Sol: 2,871 miles de millones km

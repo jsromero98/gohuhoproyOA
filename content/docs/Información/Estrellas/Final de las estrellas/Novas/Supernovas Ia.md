@@ -1,5 +1,8 @@
 # Supernovas Ia
 
+![Supernova Ia](/gohuhoproyOA/sketches/375px-Keplers_supernova.jpg)    
+[Supernova II](https://es.wikipedia.org/wiki/Supernova)
+
 Este evento astronómico en particular corresponde a cuando una enana blanca de un sistema binario absorbe a su estrella compañera por lo general esta suele ser una gigante roja, lo cual suele producir un colapso gravitacional desencadenando este suceso.
 
 El máximo de emisión de estas supernovas es el mayor entre los otros tipos de estos objetos celestes, al producirse este suceso no suelen quedar rastros de la estrella que produjo el cataclismo, si no solo gas y polvo sobrecalentándose, al desaparecer el campo gravitatorio de la enana blanca, la estrella compañera si es que llega a permanecer luego de la explosión, esta saldrá disparada en la dirección que llevaba al momento del estallido.

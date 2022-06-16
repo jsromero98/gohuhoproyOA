@@ -11,3 +11,6 @@ Nuestro sistema solar se encuentra orbitando en el centro de la vía láctea a u
 El modelo que se tiene del sistema solar actualmente se debe a reconocidos astrónomos como lo son Nicolás Copérnico, Galileo Galilei, Johannes Kepler e Isaac Newton, pues antes se consideraba a la tierra como el centro del universo obedeciendo al modelo geocéntrico.
 
 En el sistema solar además de los planetas ya estudiados se encuentran objetos como cinturones de asteroides y planetas enanos, como Plutón que hasta hace unos años era considerado como un planeta más del sistema solar. Los planetas enanos son cuerpos celestes muy pequeños, incluso más que nuestra Luna, que se ubican a millones de kilómetros de distancia al Sol.
+
+![Sistema solar](/gohuhoproyOA/sketches/nube-oort02.jpg)    
+[Sistema solar](http://www.cienciamx.com/images/aic/ciencia/universo/nube-oort02.jpg)

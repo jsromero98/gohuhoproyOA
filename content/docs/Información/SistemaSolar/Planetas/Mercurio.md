@@ -1,5 +1,8 @@
 ## Mercurio
 
+![Mercurio](/gohuhoproyOA/sketches/image(7).png)    
+[Mercurio](https://media.utp.edu.co/planetario/imagenes/RedactoresPub/image%20(7).png)
+
 Planeta rocoso, es el más pequeño del sistema solar. Debido a su delgada capa atmosférica, mercurio alcanza temperaturas extremadamente altas, su núcleo es metálico dándole una densidad bastante alta.
 
 - Distancia desde el Sol: 57,91 millones km

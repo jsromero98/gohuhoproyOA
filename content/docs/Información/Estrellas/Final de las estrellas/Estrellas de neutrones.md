@@ -1,5 +1,8 @@
 # Estrellas de neutrones
 
+![Estrella de neutrones](/gohuhoproyOA/sketches/neutron-star.jpg)    
+[Estrella de neutrones](https://www.geoenciclopedia.com/wp-content/uploads/2014/12/Neptuno.jpg)
+
 Son una clase de remanente estelar producto del colapso gravitacional de una estrella supergigante luego de agotar el combustible en su núcleo y pasar a ser una supernova de tipo II, cuentan con un pequeño diámetro de alrededor 12.5 millas o 20 kilómetros y su masa debe ser del alrededor 1.4-2.25 Ms: 
 
 - Cuentan con una densidad de alrededor de {{<katex>}} {{</katex>}} , mucho mas densas que una enana blanca

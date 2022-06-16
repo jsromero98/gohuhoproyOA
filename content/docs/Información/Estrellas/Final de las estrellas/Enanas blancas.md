@@ -1,5 +1,8 @@
 # Enanas blancas
 
+![Enana blanca](/gohuhoproyOA/sketches/UJS3PENMVRDPZFBCNO6LQNDAYQ.jpg)    
+[Enana blanca](https://www.fayerwayer.com/2021/07/estrella-enana-blanca-masiva-sol-tierra-luna/)
+
 Son remanentes estelares que surgen al final del ciclo de vida de una estrella que no cuente con la masa suficiente para adquirir la forma de una estrella de neutrones o de un agujero negro, estas se componen de materia degenerada a partir de electrones:
 
 - Son objetos muy densos, su masa se iguala a la del sol, mientras que el volumen es equiparable al de la tierra

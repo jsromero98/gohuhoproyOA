@@ -1,5 +1,8 @@
 # Enanas marrones
 
+![Enana marron](/gohuhoproyOA/sketches/Artist’s_conception_of_a_brown_dwarf_like_2MASSJ22282889-431026.jpg)    
+[Enana marron](https://es.wikipedia.org/wiki/Enana_marr%C3%B3n)
+
 Estos objetos son producto de un proceso fallido del nacimiento de una estrella, ya que no cuentan con la masa suficiente para producir energía mediante fusión nuclear:
 
 - Su temperatura promedio es de unos 1000k

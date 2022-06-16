@@ -1,5 +1,8 @@
 # Júpiter
 
+![Jupiter](/gohuhoproyOA/sketches/jupiter-1.jpg)    
+[Jupiter](https://www.planetario.net/wp-content/uploads/2019/07/jupiter-1.jpg)
+
 Es el primero de los planetas exteriores siendo un gigante gaseoso, es uno de los objetos más brillantes visibles desde la tierra . Es el planeta más grande del sistema solar, sin embargo, debido a que es un planeta gaseoso no tiene una densidad muy alta, podría ser capaz de flotar en el agua. Su atmósfera está mayormente conformada por hidrógeno y helio, elementos que quedaron como restos después de la formación del sol.
 
 - Gravedad: 24,79 m/s²

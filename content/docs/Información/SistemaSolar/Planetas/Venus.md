@@ -1,5 +1,8 @@
 ## Venus
 
+![Venus](/gohuhoproyOA/sketches/_118791902_venus10.jpg.webp)    
+[Venus](https://ichef.bbci.co.uk/news/800/cpsprodpb/51B7/production/_118791902_venus10.jpg.webp)
+
 Es el planeta más caliente del sistema solar debido a su densa y gruesa atmósfera haciendo imposible habitar vida en él. Se considera planeta hermano de la tierra pues evolucionó de la misma forma siendo casi del mismo diámetro y composición.
 
 - Distancia desde el Sol: 108,2 millones km
