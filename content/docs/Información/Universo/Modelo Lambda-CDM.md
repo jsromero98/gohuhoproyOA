@@ -1,5 +1,7 @@
 # Modelo Lambda-DCM
 
 En cosmología, el modelo Lambda-CDM o ΛCDM (en inglés: Lambda-Cold Dark Matter) representa el modelo de concordancia del Big Bang que explica las observaciones cósmicas de la radiación de fondo de microondas, así como la estructura a gran escala del universo y las observaciones realizadas de supernovas, arrojando luz sobre la explicación de la aceleración de la expansión del Universo. Es el modelo conocido más simple que está de acuerdo con todas las observaciones.
+
 Lambda: Λ (lambda) indica la constante cosmológica como parte de un término de la energía oscura que permite conocer el valor actual de la expansión acelerada del Universo que se inició hace unos 6 mil millones de años. La constante cosmológica se describe en términos la fracción de densidad de energía de un universo plano. En la actualidad, lo que implica que equivale al 70% de la densidad de energía del presente universo.
+
 La materia oscura fría es el modelo de materia oscura en el que la velocidad de sus partículas es muy inferior a la velocidad de la luz, de ahí el adjetivo "fría". La materia oscura fría es no-bariónica, a diferencia de la materia bariónica normal con la que no interacciona excepto mediante la gravedad. Este componente constituye el 26% de la densidad de la energía del actual universo. El 4% restante es toda la materia y energía (materia bariónica), que componen los átomos y los fotones que son los bloques que construyen los planetas, las estrellas y las nubes de gas en el universo.

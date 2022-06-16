@@ -1,0 +1,3 @@
+# Luz y su velocidad
+
+Las estrellas generan luz por las reacciones nucleares que se producen en su interior, esta luz es capaz de viajar por el espacio hasta la tierra donde la podemos percibir, la velocidad de la luz es una constante universal, invariable en el tiempo y espacio físico. Su valor es de 299.792.458 metros por segundo , o 1080 millones de kilómetros por hora. Esta velocidad se relaciona con una unidad de longitud que se usa mucho en astronomía que es el año luz, que se refiere a la distancia recorrida por la luz en un año. Haciendo aclaración de que la luz hace parte de la dualidad onda corpúsculo siendo capaz de comportarse de ambas maneras.
